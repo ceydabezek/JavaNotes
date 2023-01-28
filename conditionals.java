@@ -8,7 +8,7 @@ public static void main(String[] args) {
              else if(sayi ==20) {
             System.out.println("Number equal to 20");
 
-        }
+        }//eda
         else {System.out.println("Number more than 20");}
     
 
